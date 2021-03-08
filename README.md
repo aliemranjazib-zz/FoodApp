@@ -1,6 +1,10 @@
-# flutter_zone_food_app
+# FOOD ME - FLUTTER APP
 
-A new Flutter project.
+Order your favourite Food
+
+![home](https://user-images.githubusercontent.com/10241241/110306786-08360980-8020-11eb-831c-c7ced39b700b.jpeg)
+![orders](https://user-images.githubusercontent.com/10241241/110306804-0c622700-8020-11eb-8345-809484fb86ef.jpeg)
+
 
 ## Getting Started
 
