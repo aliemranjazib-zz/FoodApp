@@ -27,6 +27,7 @@ dependencies:
   scoped_model: ^1.0.1
   rxdart: ^0.24.1
   shared_preferences: ^0.5.12+4
+  change_app_package_name: ^0.1.2
 
 dev_dependencies:
   flutter_test:

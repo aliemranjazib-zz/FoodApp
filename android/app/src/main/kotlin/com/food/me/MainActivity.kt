@@ -1,4 +1,4 @@
-package com.example.flutter_zone_food_app
+package com.food.me
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
